@@ -1,4 +1,4 @@
-# project.GPT3-davinci.chatbot.react.database
+# project.GPT3-davinci.chatbot.react.database (2022.12)
 
 데이터베이스 상호작용형 챗봇<br>
 ![반응형](https://github.com/hope69034/project.GPT3-davinci.chatbot.react.database/assets/108075604/9997c110-56b6-4ea9-9500-51282c35f0a0)
