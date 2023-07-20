@@ -5,6 +5,5 @@
 <br>
 npm install axios express mysql redux react-redux react-router-dom<br>
 pip install openai<br>
-<br>
-npm start
+npm start<br>
 npm run build
